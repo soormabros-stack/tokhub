@@ -1,0 +1,8 @@
+{
+  "name": "TokHub",
+  "short_name": "TokHub",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
